@@ -1,2 +1,3 @@
 # DC-Motor-control-Project
-Controlling the speed of dc motor using L239D driver and 8051 MCU and Embedded C programming.
+They control the DC motor speed using L239D driver and 8051 MCU and Embedded C programming.
+Create the PCB simulation in Proteus of The Practice Project
